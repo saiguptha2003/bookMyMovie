@@ -22,7 +22,7 @@ WORKDIR /app
 COPY --from=build /out .
 
 # Expose the API port
-EXPOSE 5000
+EXPOSE 8080
 
 # Start the API
 ENTRYPOINT ["dotnet", "BookMyMovie.Api.dll"]
