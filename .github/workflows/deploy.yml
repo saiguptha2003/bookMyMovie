@@ -16,4 +16,3 @@ jobs:
       dockerhub_username: 'pandusa2003'
     secrets:
       DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}  # Correct secret reference
-    environment: actions  # Define environment properly

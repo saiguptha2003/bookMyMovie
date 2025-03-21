@@ -20,7 +20,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: "actions"
+    environment: actions
 
     steps:
       - name: Checkout code
