@@ -1,0 +1,19 @@
+name: Main Docker Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  docker_build_push:
+    uses: ./.github/workflows/reusedepoly.yml   # Specify the branch or tagdasfasdfadsfasdfa
+    environment: "actions"
+    with:
+      image_name: 'bookmymovie'
+      dockerhub_username: 'pandusa2003'
+    secrets:
+      DOCKERHUB_TOKEN: ${{ secrets.DOCKER_TOKEN }}

@@ -1,0 +1,114 @@
+[33mcommit c78c4ded84ff81530dab9943fd567698b26db3d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 13:15:38 2025 +0530
+
+    added workflow
+
+[33mcommit 9b09e433fb2db633d6cc1345aab4a388a0c5ed0a[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 13:14:53 2025 +0530
+
+    added workflow
+
+[33mcommit 3234bcfd2e2b41c0c758e11e30113a5d33b42b65[m[33m ([m[1;31mactions/main[m[33m)[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 13:04:57 2025 +0530
+
+    added workflow
+
+[33mcommit 0aa285f176b11e2e00278da6f80ba4892ba2847f[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 13:04:02 2025 +0530
+
+    added workflow
+
+[33mcommit d45f8052745154e809e262c2807690509cdd343c[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 13:03:07 2025 +0530
+
+    added workflow
+
+[33mcommit 8aac1e5d4ab6a22556bf121ac6a157fefd0659b2[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 12:56:33 2025 +0530
+
+    added workflow
+
+[33mcommit 908abd193dcc8e4cac199833edd933ee206e48d3[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 12:55:20 2025 +0530
+
+    added workflow
+
+[33mcommit 75dd98481f105ea16356159597c3fae662cc3160[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mactions/feature/comments[m[33m, [m[1;32mfeature/comments[m[33m)[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 12:47:48 2025 +0530
+
+    added workflow
+
+[33mcommit 2a5fa7e2a95ecf427e35e9a06e4691aa8f5fa681[m[33m ([m[1;31morigin/feature/comments[m[33m)[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Fri Mar 21 11:15:59 2025 +0530
+
+    comment: done
+
+[33mcommit ed5564e2670c72b1cf3fcb9647fa9ccfa900e744[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Thu Mar 20 23:40:01 2025 +0530
+
+    movies updated
+
+[33mcommit 4db30717ab6d12a5bc825ffcfadfaa90761693a3[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Thu Mar 20 14:27:41 2025 +0530
+
+    changes
+
+[33mcommit 23c5c228860d7c7a16bee4168a0c995039eb0d54[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Wed Mar 19 15:54:53 2025 +0530
+
+    feat: added booking services and defined admin routes
+
+[33mcommit 6a0c7b016d7d44a357a9446ecd8bbca2e13f8904[m
+Merge: f69516d 66a1d0c
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Wed Mar 19 12:56:13 2025 +0530
+
+    Merge branch 'main' of https://github.com/sai-guptha_cmcom/BookMyMovie
+
+[33mcommit f69516d991a78681f44e07c9a09c7914827b77d5[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Wed Mar 19 12:54:54 2025 +0530
+
+    modify: added auth for admin routes
+
+[33mcommit 66a1d0c8082894df3e3ed90a32a01010c332d2b2[m
+Author: Sai Guptha | CM.com <Sai.Guptha@cm.com>
+Date:   Wed Mar 19 12:44:45 2025 +0530
+
+    Rename cicdDeploy.yaml to cicdDeploy.yml
+
+[33mcommit 83f5313c1f9a4b2ca21a03751cb71779bbd7cc9e[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Wed Mar 19 12:43:38 2025 +0530
+
+    commented
+
+[33mcommit 7ac6e2e0baa15e4c889fc2f459c9e06609aeaf3d[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Wed Mar 19 12:41:46 2025 +0530
+
+    workflow: added cicd workflow
+
+[33mcommit 2bb3aa546d69a7b3d4cb63b95acbfb0db3d4bbc6[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Tue Mar 18 10:37:53 2025 +0530
+
+    feat: added readme file
+
+[33mcommit e9463859f13a4470574caff284f161de8e121603[m
+Author: Sai Guptha | CM.com <sai.guptha@cm.com>
+Date:   Tue Mar 18 10:29:51 2025 +0530
+
+    feat: created models, services, controllers for movies, theatres, users

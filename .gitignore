@@ -1,0 +1,111 @@
+# .NET Core Build Files
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app
+*.ipa
+*.iobj
+*.ipdb
+*.map
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper files
+_ReSharper.*
+/resharper/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/packages/
+.nuget/db/
+.nuget/fallbackfolders/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.config
+
+# Build artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+publish/
+AppPackages/
+TestResults/
+
+# Logs
+*.log
+*.log.*
+
+## Config and secrets
+#appsettings.json
+#appsettings.Development.json
+#appsettings.Local.json
+#appsettings.Production.json
+#secrets.json
+
+# Temporary files
+*.bak
+*.tmp
+*.old
+*.swp
+*.swo
+
+# IDE cache and metadata
+*.ldb
+*.cache
+*.db
+*.log
+.DS_Store
+
+# Rider and Resharper
+.idea/
+*.dotCover
+*.dotTrace
+*.dotMemory
+*_ReSharper.*
+
+# Ignore build output folders for subprojects
+**/bin/
+**/obj/
+**/out/
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+*.app
+*.ipa
+*.iobj
+*.ipdb
+
+# Ignore NuGet files
+*.nuget
+.nuget/
+
+# Ignore test results and coverage data
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.log
+*.trx
