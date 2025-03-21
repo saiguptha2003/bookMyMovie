@@ -27,7 +27,7 @@ public static  class DependencyInjection
         services.AddScoped<IShowTimeRepository, ShowTimeRepository>();
         services.AddScoped<IBookingRepository, BookingRepository>();
         services.AddDbContext<BookMyMovieContext>(options =>
-            options.UseNpgsql("Host=localhost;Port=5432;Database=bookmymovie;Username=postgres;Password=postgres"));
+            options.UseNpgsql("Host=172.16.10.218;Port=5432;Database=bookmymovie;Username=postgres;Password=postgres"));
         // var connectionString ="Data Source=bookmymovie.db";
         // services.AddDbContext<BookMyMovieContext>(options =>
         //     options.UseSqlite(connectionString));
