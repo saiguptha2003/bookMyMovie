@@ -23,7 +23,7 @@ on:
       environment:
         required: false
         type: string
-        default: 'actions'
+        default: 'initializeactions'
     secrets:
       DOCKERHUB_TOKEN:
         required: true
