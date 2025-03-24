@@ -28,11 +28,9 @@ public class JwtTokenGenerator : IJwtTokenGenerator
             ),
             SecurityAlgorithms.HmacSha256
         );
-        System.Console.WriteLine(userId);
-        System.Console.WriteLine(userId);
+        
         var claims = new[]
         {
-            
             new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
             new Claim(ClaimTypes.Role, role),   
             new Claim(JwtRegisteredClaimNames.GivenName,userId.ToString()),
